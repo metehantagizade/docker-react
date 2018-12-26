@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-            Metehan Tagizadee
+            Metehan Tagizadeeeeeeeeeeeeeeeee
           </p>
           
         </header>
